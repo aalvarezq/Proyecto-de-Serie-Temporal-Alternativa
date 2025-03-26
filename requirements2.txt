@@ -1,0 +1,17 @@
+ipyleaflet
+ipywidgets
+matplotlib
+numpy==1.26.4
+opencv-python
+pandas
+psycopg2-binary
+pymysql
+python-dotenv
+requests
+scikit-learn
+seaborn
+sqlalchemy
+sympy
+xgboost
+statsmodels
+pmdarima
